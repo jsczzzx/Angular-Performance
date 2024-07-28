@@ -2,7 +2,7 @@
 
 To improve web performance, especially for enhancing user experience, three key metrics are often focused on: Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). Here's an introduction to each:
 
-## Largest Contentful Paint (LCP)
+## Improving Largest Contentful Paint (LCP)
 ### Definition
 LCP measures the time it takes for the largest content element visible within the viewport to load. This element is typically an image, video, or large block of text.
 
